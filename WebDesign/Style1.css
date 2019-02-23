@@ -1,0 +1,109 @@
+body {
+    background-color: #eef2f2;
+   
+   
+}
+.content
+{
+	font-size:30px;
+	font-family:'algerian';
+	text-align:center;
+}
+.content6
+{
+	padding:10px;
+}
+.col6
+{
+	padding-top:10px;
+	width:50%;
+	tetxt-align:justify;
+	
+}
+.form
+{
+	font-weight:bold;
+}
+.form label
+{
+	font-size: 35px;
+    font-weight: bold;
+    color:green;
+    padding:5px;
+}
+.form-group
+{
+	padding:10px;
+}
+input[type="text"]
+{
+	    border-radius:7px;
+	    font-size:18px;
+        padding:14px;
+        width:91%;
+}
+textarea
+{
+	border-radius:7px;
+	font-size:18px;
+    padding:14px;
+    width:91%;
+}
+.form-label
+{
+	border-radius: 7px;
+	font-size:18px;
+    padding: 14px;
+    width:91%;
+}
+.gender
+{
+	font-size:18px;
+    padding: 20px;
+	
+}
+input[type="gender"]
+{
+	font-size:18px;
+    padding: 20px;
+}
+input[type="email"]
+{
+	border-radius: 7px;
+	font-size:18px;
+    padding:14px;
+    width:91%;
+}
+.clearfix
+{
+	clear:both;
+}
+input[type="submit"]
+{
+	 border-radius:7px;
+	    font-size:18px;
+    padding:14px;
+    width:50%;
+}
+select
+{
+	border-radius:7px;
+	font-size:18px;
+    padding:14px;
+    width:91%;
+
+}
+.reg-form
+{
+	border:1px solid red;
+	width:100%;
+	    box-shadow: 1px 3px 5px 7px #883086ed;
+	border-radius:7px;
+}
+input[type="number"]
+{
+    border-radius:7px;
+    font-size:18px;
+    padding:14px;
+    width:91%;
+}
